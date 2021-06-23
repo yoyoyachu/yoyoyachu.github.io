@@ -1,0 +1,18 @@
+.container{
+    width: 700px;
+}
+.card{
+    border-radius: 2%;
+    width: 48rem;
+    box-shadow: 13px 15px 17px -9px rgba(0,0,0,0.75);
+-webkit-box-shadow: 13px 15px 17px -9px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 15px 17px -9px rgba(0,0,0,0.75);
+}
+.playerComputerLI{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.playerUL{
+    list-style: none;
+}
